@@ -1,2 +1,5 @@
-# sfcc-docs
-Useful links and study materials for Salesforce Commerce Cloud Developers
+# SFCC Docs
+Useful links and study materials for Salesforce Commerce Cloud Developers.
+
+## Study material
+
