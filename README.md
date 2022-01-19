@@ -12,10 +12,12 @@ Useful links and study materials for Salesforce Commerce Cloud Developers.
 - :pushpin: [Release Notes](https://help.salesforce.com/s/articleView?id=sf.b2c_rn_release_notes.htm&type=5)
 - :pushpin: [Salesforce Commerce Cloud Product Overview](https://www.salesforce.com/products/commerce-cloud/overview/)
 - :pushpin: [Partner Learning Camp](https://partnerlearningcamp.salesforce.com/) - _Login Required_
+- :pushpin: [Blog Commerce B2C / B2B](https://www.salesforce.com/blog/category/commerce/)
+- :pushpin: [Forum - Commerce Developer Community](https://developer.commercecloud.com/s/group/0F93k000000UOtS/commerce-developer-community)
+- :pushpin: [B2C Commerce Group - Trailblazer Community](https://trailhead.salesforce.com/es-MX/trailblazer-community/groups/0F93A000000DGi3)
+- :pushpin: [Discussion Groups: Headless, Page Designer, Einstein...](https://developer.commercecloud.com/s/discussion-groups)
+- :pushpin: [Unofficial Slack Channel](https://sfcc-unofficial.slack.com/) - [Request an Invitation](https://docs.google.com/forms/d/e/1FAIpQLSdy875PlJuib35naCkr3-Frn2qtaSuuRgYezRSb2uBYkhXt7g/viewform)
 - :pushpin: [Twitter](https://twitter.com/commercecloud)
-- :pushpin: []()
-- :pushpin: []()
-- :pushpin: []()
 ## Salesforce B2C Websites
 
 - :link: [Business Manager](https://development-eu01-xxxxxxxx.demandware.net/on/demandware.store/Sites-Site/default/ViewApplication-DisplayWelcomePage)
@@ -67,10 +69,12 @@ Useful links and study materials for Salesforce Commerce Cloud Developers.
 - :bookmark_tabs: [B2C Commerce PWA Kit and Managed Runtime](https://developer.salesforce.com/docs/commerce/pwa-kit-managed-runtime/guide)
 - :bookmark_tabs: [Code Samples & SDKS](https://developer.salesforce.com/code-samples-and-sdks?page=1&service=commerce%20cloud&type=sample&type=sdk%2Ftool)
 - :bookmark_tabs: [Dreamforce Commerce: Roadmap, Headless...](https://www.salesforce.com/plus/experience/Dreamforce_2021/series/Commerce)
-- :bookmark_tabs: []()
-- :bookmark_tabs: []()
-- :bookmark_tabs: []()
 
 ### Trailhead
 
 
+### Certification
+- :star: [B2C Commerce Developer](https://trailhead.salesforce.com/es-MX/credentials/b2ccommercedeveloper)
+- :star: [Exam Guide - Salesforce Certified B2C Commerce Developer](https://trailhead.salesforce.com/help?article=Salesforce-Certified-B2C-Commerce-Developer-Exam-Guide)
+- :star: [Schedule your Salesforce Certification Exam](https://www.webassessor.com/salesforce)
+- :star: [Certification Questions](https://www.certification-questions.com/salesforce-dumps/certified-b2c-commerce-developer.html)
