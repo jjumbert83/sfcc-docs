@@ -6,19 +6,23 @@ Useful links and study materials for Salesforce Commerce Cloud Developers.
 - :pushpin: [Salesforce B2C Commerce Infocenter :uk:](https://documentation.b2c.commercecloud.salesforce.com/DOC1/index.jsp)
 - :pushpin: [Salesforce B2C Commerce Infocenter :es:](https://documentation-pt.b2c.commercecloud.salesforce.com/DOC1/index.jsp)
 - :pushpin: [Salesforce B2C Git Repository](https://github.com/SalesforceCommerceCloud/)
+- :pushpin: [Commerce Cloud Developer Center](https://developer.salesforce.com/developer-centers/commerce-cloud)
+- :pushpin: [Salesforce Status](https://status.salesforce.com/)
+- :pushpin: [Salesforce Support](https://help.salesforce.com/s/support)
+- :pushpin: [Release Notes](https://help.salesforce.com/s/articleView?id=sf.b2c_rn_release_notes.htm&type=5)
+- :pushpin: [Salesforce Commerce Cloud Product Overview](https://www.salesforce.com/products/commerce-cloud/overview/)
+- :pushpin: [Partner Learning Camp](https://partnerlearningcamp.salesforce.com/) - _Login Required_
+- :pushpin: [Twitter](https://twitter.com/commercecloud)
 - :pushpin: []()
 - :pushpin: []()
 - :pushpin: []()
-- :pushpin: []()
-- :pushpin: []()
-
 ## Salesforce B2C Websites
 
 - :link: [Business Manager](https://development-eu01-xxxxxxxx.demandware.net/on/demandware.store/Sites-Site/default/ViewApplication-DisplayWelcomePage)
 - :link: [Account Manager](https://account.demandware.com/)
 - :link: [Control Center](https://controlcenter.commercecloud.salesforce.com/)
 - :link: [Commerce Cloud Reports &amp; Dashboards](https://ccac.analytics.demandware.com/)
-- :link: [Log Center](https://logcenter-XXXXXXX-hippo.demandware.net/logcenter/dashboard) - _Check your URL inside BM > Administration > Development Setup > WebDAV Access > Log Center_
+- :link: [Log Center](https://logcenter-XXXXXXX-hippo.demandware.net/logcenter/dashboard) - _BM > Administration > Development Setup > WebDAV Access > Log Center_
 - :link: [Einstein Configurator CQuotient](https://configurator.cquotient.com/)
 - :link: [OCAPI Explorer Debug User](https://api-explorer.commercecloud.salesforce.com/)
 
@@ -52,6 +56,20 @@ Useful links and study materials for Salesforce Commerce Cloud Developers.
 - :movie_camera: [B2C Commerce Cloud Holiday Readiness 2019](https://cs.salesforce.com/events/7013y000002NfrmAAC) | :hourglass: 05h 06m 20s
 
 ### Guides & Quick Links
+
+- :bookmark_tabs: [Get Started on the B2C Commerce Fast Path to Certification: Foundations](https://partnerlearningcamp.salesforce.com/s/browse-catalog?plc__recordId=Q9SKXlfKd1bH22VdHH62qwQNWQoeVRsS0nY%2B2ZQGLezsdMaa37mtN%2BmIcWkhkhrq) - _Login Required_
+- :bookmark_tabs: [Commerce API](https://partnerlearningcamp.salesforce.com/s/browse-catalog?plc__recordId=qwK9jd38RPP2ZS62z8vGy8s3dUVBnFd0R%2BovPFeg4yzWXjaCE9mV6go9jEMQ52Le) - _Login Required_
+- :bookmark_tabs: [Commerce API](https://developer.salesforce.com/docs/commerce/commerce-api/overview)
+- :bookmark_tabs: [Einstein AI for Commerce Cloud](https://partnerlearningcamp.salesforce.com/s/browse-catalog?plc__recordId=8oFTPEzS%2FlfOGWbgmXfC1JiaErhsTnFwlMdnd0fa%2BKM5xUk9hELyRfbxpQbTnelP) - _Login Required_
+- :bookmark_tabs: [B2C Commerce Einstein API](https://developer.salesforce.com/docs/commerce/einstein-api/overview)
+- :bookmark_tabs: [B2C Commerce Solutions: Automotive, Insurance, Grocery...](https://developer.salesforce.com/docs/commerce/commerce-solutions/guide/solutions-landing-overview.html)
+- :bookmark_tabs: [B2C Commerce Storefront Reference Architecture](https://developer.salesforce.com/docs/commerce/sfra/overview)
+- :bookmark_tabs: [B2C Commerce PWA Kit and Managed Runtime](https://developer.salesforce.com/docs/commerce/pwa-kit-managed-runtime/guide)
+- :bookmark_tabs: [Code Samples & SDKS](https://developer.salesforce.com/code-samples-and-sdks?page=1&service=commerce%20cloud&type=sample&type=sdk%2Ftool)
+- :bookmark_tabs: [Dreamforce Commerce: Roadmap, Headless...](https://www.salesforce.com/plus/experience/Dreamforce_2021/series/Commerce)
+- :bookmark_tabs: []()
+- :bookmark_tabs: []()
+- :bookmark_tabs: []()
 
 ### Trailhead
 
