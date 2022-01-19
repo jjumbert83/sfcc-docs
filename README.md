@@ -4,7 +4,7 @@ Useful links and study materials for Salesforce Commerce Cloud Developers.
 ## Official Docs & Sites
 
 - :pushpin: [Salesforce B2C Commerce Infocenter](https://documentation.b2c.commercecloud.salesforce.com/DOC1/index.jsp)
-- :pushpin: []()
+- :pushpin: [Salesforce B2C Git Repository](https://github.com/SalesforceCommerceCloud/)
 - :pushpin: []()
 - :pushpin: []()
 - :pushpin: []()
@@ -13,12 +13,12 @@ Useful links and study materials for Salesforce Commerce Cloud Developers.
 
 ## Salesforce B2C Websites
 
-- :link: []()
-- :link: []()
-- :link: []()
-- :link: []()
-- :link: []()
-- :link: []()
+- :link: [Business Manager](https://development-eu01-xxxxxxxx.demandware.net/on/demandware.store/Sites-Site/default/ViewApplication-DisplayWelcomePage)
+- :link: [Account Manager](https://account.demandware.com/)
+- :link: [Control Center](https://controlcenter.commercecloud.salesforce.com/)
+- :link: [Commerce Cloud Reports &amp; Dashboards](https://ccac.analytics.demandware.com/)
+- :link: [Log Center](https://logcenter-XXXXXXX-hippo.demandware.net/logcenter/dashboard) - URL Depends on POD, check your URL inside BM > Administration > Development Setup > WebDAV Access > Log Center
+- :link: [Einstein Configurator CQuotient](https://configurator.cquotient.com/)
 - :link: []()
 
 ## Study material
