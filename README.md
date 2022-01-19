@@ -1,8 +1,28 @@
 # SFCC Docs
 Useful links and study materials for Salesforce Commerce Cloud Developers.
 
-## Study material
+## Official Docs & Sites
 
+- :pushpin: [Salesforce B2C Commerce Infocenter](https://documentation.b2c.commercecloud.salesforce.com/DOC1/index.jsp)
+- :pushpin: []()
+- :pushpin: []()
+- :pushpin: []()
+- :pushpin: []()
+- :pushpin: []()
+- :pushpin: []()
+
+## Salesforce B2C Websites
+
+- :link: []()
+- :link: []()
+- :link: []()
+- :link: []()
+- :link: []()
+- :link: []()
+- :link: []()
+
+## Study material
+### Videos
 - :movie_camera: [Trailhead Academy: B2C Commerce Developer with SFRA (CCD102)](https://trailhead.salesforce.com/live/videos/a2r3k000001vD36/trailhead-academy-b2c-commerce-developer-with-sfra-ccd102/?lang=es-MX) | :hourglass: 16m 15s
 - :movie_camera: [OCAPI for Salesforce B2C](https://trailhead.salesforce.com/live/videos/a2r3k000001n2gY/ocapi-for-salesforce-b2c?lang=es-MX) | :hourglass: 18m 42s
 - :movie_camera: [Einstein Recommenders in B2C Commerce](https://trailhead.salesforce.com/live/videos/a2r3k000001n2dt/einstein-recommenders-in-b2c-commerce?lang=es-MX) | :hourglass: 26m 35s
@@ -30,6 +50,8 @@ Useful links and study materials for Salesforce Commerce Cloud Developers.
 - :movie_camera: [Peak Readiness 2021 VIDEO: B2C Commerce & Marketing](https://cs.salesforce.com/events/7013y000001zJNtAAM) | :hourglass: 51m 28s
 - :movie_camera: [B2C Commerce Cloud Holiday Readiness 2019](https://cs.salesforce.com/events/7013y000002NfrmAAC) | :hourglass: 05h 06m 20s
 
+### Guides & Quick Links
 
+### Trailhead
 
 
