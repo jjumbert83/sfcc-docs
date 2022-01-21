@@ -78,3 +78,5 @@ Useful links and study materials for Salesforce Commerce Cloud Developers.
 - :star: [Exam Guide - Salesforce Certified B2C Commerce Developer](https://trailhead.salesforce.com/help?article=Salesforce-Certified-B2C-Commerce-Developer-Exam-Guide)
 - :star: [Schedule your Salesforce Certification Exam](https://www.webassessor.com/salesforce)
 - :star: [Certification Questions](https://www.certification-questions.com/salesforce-dumps/certified-b2c-commerce-developer.html)
+- :money_with_wings: [B2C Commerce Developer with SFRA (CCD102)](https://trailheadacademy.salesforce.com/classes/ccd102-b2c-commerce-developer-with-sfra) - 3.000$
+- :money_with_wings: [B2C Commerce Merchant (CCM101)]()
