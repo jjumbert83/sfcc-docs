@@ -81,6 +81,7 @@ Useful links and study materials for Salesforce Commerce Cloud Developers.
     - :muscle: [Salesforce B2C Commerce for Merchandisers](https://trailhead.salesforce.com/en/content/learn/modules/cc-digital-merchandising?trail_id=build-ecommerce-site-with-cc-digital) | Module - 30m
     - :muscle: [Salesforce B2C Commerce Campaigns and Promotions](https://trailhead.salesforce.com/en/content/learn/modules/b2c-campaigns-and-promotions?trail_id=build-ecommerce-site-with-cc-digital) | Module - 01h 45m
     - :muscle: [Salesforce B2C Commerce Storefront Search](https://trailhead.salesforce.com/en/content/learn/modules/b2c-storefront-search?trail_id=build-ecommerce-site-with-cc-digital) | Module - 01h 20m
+    - :muscle: [Salesforce B2C Commerce Storefront Sorting Rules](https://trailhead.salesforce.com/es-MX/content/learn/modules/b2c-storefront-sorting-rules?trail_id=configure-your-salesforce-b2c-commerce-storefront-data) | Module - 50m
 - :eyes: [Optimize Search Engine Awareness for Your Salesforce B2C Commerce Storefront](https://trailhead.salesforce.com/es-MX/content/learn/trails/optimize-search-engine-awareness-for-your-salesforce-b2c-commerce-storefront) | Trailmix - 04h 00m
     - :muscle: [Salesforce B2C Commerce Hostname Aliases](https://trailhead.salesforce.com/es-MX/content/learn/modules/b2c-hostname-aliases?trail_id=optimize-search-engine-awareness-for-your-salesforce-b2c-commerce-storefront) | Module - 40m
     - :muscle: [Salesforce B2C Commerce SEO URLs](https://trailhead.salesforce.com/es-MX/content/learn/modules/b2c-seo-urls?trail_id=optimize-search-engine-awareness-for-your-salesforce-b2c-commerce-storefront) | Module - 01h 30m
@@ -93,7 +94,10 @@ Useful links and study materials for Salesforce Commerce Cloud Developers.
     - :muscle: [Salesforce B2C Commerce Scheduled Jobs](https://trailhead.salesforce.com/en/content/learn/modules/b2c-admin-create-and-manage-jobs?trail_id=administer-b2c-commerce) | Module - 01h 15m
     - :muscle: [Salesforce B2C Commerce On-Demand Sandboxes](https://trailhead.salesforce.com/en/content/learn/modules/b2c-on-demand-sandbox?trail_id=administer-b2c-commerce) | Module - 30m
     - :muscle: [Salesforce B2C Commerce Trust Site](https://trailhead.salesforce.com/en/content/learn/modules/b2c-commerce-trust-site?trail_id=administer-b2c-commerce) | Module - 30m
-- :eyes: []() | Trailmix - 03h 15m
+- :eyes: [Deploy Commerce Cloud Einstein](https://trailhead.salesforce.com/en/content/learn/trails/deploy-commerce-cloud-einstein) | Trailmix - 04h 25m
+    - :muscle: [Commerce Cloud Einstein Implementation](https://trailhead.salesforce.com/en/content/learn/modules/cc-einstein-plan-and-implement?trail_id=deploy-commerce-cloud-einstein) | Module - 01h 15m
+    - :muscle: [Einstein Product Recommendations for Commerce Cloud](https://trailhead.salesforce.com/en/content/learn/modules/cc-einstein-product-recommendations?trail_id=deploy-commerce-cloud-einstein) | Module - 02h 05m
+    - :muscle: [Smarter Search with Commerce Cloud Einstein](https://trailhead.salesforce.com/en/content/learn/modules/cc-einstein-smarter-search?trail_id=deploy-commerce-cloud-einstein) | Module - 01h 05m
 - :eyes: []() | Trailmix - 03h 15m
 
 - :muscle: [Salesforce B2C Commerce Launch Readiness](https://trailhead.salesforce.com/content/learn/modules/b2c-solution-functional-launch-readiness?trailmix_creator_id=strailhead&trailmix_slug=commerced-cloud-gen-900-introduction-to-commerce-cloud-businessd) | Module - 20m
