@@ -56,6 +56,26 @@ Useful links and study materials for Salesforce Commerce Cloud Developers.
 - :movie_camera: [Trailhead Academy: Manage and Merchandise a B2C Commerce Cloud Storefront (CCM101)](https://trailhead.salesforce.com/live/videos/a2r3k000001vD3B/trailhead-academy-manage-and-merchandise-a-b2c-commerce-cloud-storefront-ccm101/?lang=es-MX) | :hourglass: 20m 50s
 - :movie_camera: [Peak Readiness 2021 VIDEO: B2C Commerce & Marketing](https://cs.salesforce.com/events/7013y000001zJNtAAM) | :hourglass: 51m 28s
 - :movie_camera: [B2C Commerce Cloud Holiday Readiness 2019](https://cs.salesforce.com/events/7013y000002NfrmAAC) | :hourglass: 05h 06m 20s
+- :movie_camera: [Storefront Reference Architecture - Architecture Deep Dive](https://salesforce.vidyard.com/watch/fVzzSXddHXwvcCfeRVvcoX) | :hourglass: 23m 47s
+
+---
+
+- :movie_camera: [Salesforce B2C Commerce Cloud - Open Commerce API](https://www.youtube.com/watch?v=Jli6Sqm-2DU) | :hourglass: 00h 27min
+- :movie_camera: [Demystifying Mobile-First eCommerce Sites with Commerce Cloud SFRA](https://www.youtube.com/watch?v=23aK6B3F1TE) | :hourglass: 00h 17min
+- :movie_camera: [Salesforce B2C Commerce Cloud - SOAP Web Services](https://www.youtube.com/watch?v=-lI0sBc5v5c) | :hourglass: 00h 55min
+- :movie_camera: [Connecting Commerce and Service for a Complete Customer Journey](https://www.youtube.com/watch?v=OJVgRHYelb0) | :hourglass: 00h 23min
+- :movie_camera: [What's New in the Commerce Cloud B2C Developer's Toolbox](https://www.youtube.com/watch?v=lAsXbpF8hVA) | :hourglass: 00h 41min
+- :movie_camera: [Salesforce B2C Commerce Cloud - Einstein](https://www.youtube.com/watch?v=sGJkDRh-ejI) | :hourglass: 00h 14min
+- :movie_camera: [Build Commerce Experiences Faster with Page Designer for B2C Commerce](https://www.youtube.com/watch?v=h8n0088J9mA) | :hourglass: 00h 19min
+- :movie_camera: [Guides for Delivering Integrated Customer Experiences Salesforce Solution Kits](https://www.youtube.com/watch?v=hMFRcf2YgXk) | :hourglass: 00h 35min
+- :movie_camera: [See How PUMA Maximizes Speed and Agility With Salesforce DX For Commerce](https://www.youtube.com/watch?v=XlKjgVqnqXI) | :hourglass: 00h 35min
+- :movie_camera: [Building a Progressive Web Application on Commerce Cloud: Featuring Mobify](https://www.youtube.com/watch?v=eHzyhmEljl0) | :hourglass: 00h 29min
+- :movie_camera: [Commerce Cloud Developer Innovation in Action](https://www.youtube.com/watch?v=KYZPv4syPig) | :hourglass: 00h 19min
+- :movie_camera: [Introduction to Commerce Cloud for Developers](https://www.youtube.com/watch?v=OJVgRHYelb0) | :hourglass: 00h 28min
+- :movie_camera: [Salesforce B2C Commerce Cloud - Page Designer](https://www.youtube.com/watch?v=vEdFPZ6Aprc) | :hourglass: 00h 15min
+- :movie_camera: [Commerce Cloud for Salesforce Developers with Jon Jessup](https://www.youtube.com/watch?v=U93bgxI0LIM) | :hourglass: 00h 52min
+- :movie_camera: [Introduction to B2C Commerce Cloud](https://www.youtube.com/watch?v=dvbITrQBTlk) | :hourglass: 00h 40min
+- :movie_camera: [Salesforce B2C Commerce Cloud - Apple Pay Integration](https://www.youtube.com/watch?v=r7gnTGNuVo8) | :hourglass: 00h 27min
 
 ### Guides & Quick Links
 
