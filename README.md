@@ -98,7 +98,11 @@ Useful links and study materials for Salesforce Commerce Cloud Developers.
     - :muscle: [Commerce Cloud Einstein Implementation](https://trailhead.salesforce.com/en/content/learn/modules/cc-einstein-plan-and-implement?trail_id=deploy-commerce-cloud-einstein) | Module - 01h 15m
     - :muscle: [Einstein Product Recommendations for Commerce Cloud](https://trailhead.salesforce.com/en/content/learn/modules/cc-einstein-product-recommendations?trail_id=deploy-commerce-cloud-einstein) | Module - 02h 05m
     - :muscle: [Smarter Search with Commerce Cloud Einstein](https://trailhead.salesforce.com/en/content/learn/modules/cc-einstein-smarter-search?trail_id=deploy-commerce-cloud-einstein) | Module - 01h 05m
-- :eyes: []() | Trailmix - 03h 15m
+- :eyes: [Optimize Storefront Performance with Headless Architecture](https://trailhead.salesforce.com/es-MX/content/learn/trails/optimize-storefront-performance-with-headless-architecture) | Trailmix - 02h 10m
+    - :muscle: [Headless Commerce Basics](https://trailhead.salesforce.com/es-MX/content/learn/modules/b2c-headless-commerce-basics?trail_id=optimize-storefront-performance-with-headless-architecture) | Module - 20m
+    - :muscle: [Headless Implementation Strategies for Salesforce B2C Commerce](https://trailhead.salesforce.com/es-MX/content/learn/modules/b2c-headless-implementation-strategies?trail_id=optimize-storefront-performance-with-headless-architecture) | Module - 50m
+    - :muscle: [Headless Developer Tools for Salesforce B2C Commerce](https://trailhead.salesforce.com/es-MX/content/learn/modules/b2c-headless-developer-tools?trail_id=optimize-storefront-performance-with-headless-architecture) | Module - 30m
+    - :muscle: [Salesforce B2C Commerce SDK](https://trailhead.salesforce.com/es-MX/content/learn/modules/b2c-commerce-sdk?trail_id=optimize-storefront-performance-with-headless-architecture) | Module - 30m
 
 - :muscle: [Salesforce B2C Commerce Launch Readiness](https://trailhead.salesforce.com/content/learn/modules/b2c-solution-functional-launch-readiness?trailmix_creator_id=strailhead&trailmix_slug=commerced-cloud-gen-900-introduction-to-commerce-cloud-businessd) | Module - 20m
 - :muscle: [Headless Commerce Basics](https://trailhead.salesforce.com/en/content/learn/modules/b2c-headless-commerce-basics?trail_id=develop-for-commerce-cloud&trailmix_creator_id=strailhead) | Module - 20m
