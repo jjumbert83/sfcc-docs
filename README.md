@@ -71,6 +71,17 @@ Useful links and study materials for Salesforce Commerce Cloud Developers.
 - :bookmark_tabs: [Dreamforce Commerce: Roadmap, Headless...](https://www.salesforce.com/plus/experience/Dreamforce_2021/series/Commerce)
 
 ### Trailhead
+- :eyes: [Develop for Salesforce B2C Commerce](https://trailhead.salesforce.com/en/content/learn/trails/develop-for-commerce-cloud) | Trailmix - 03h 20m
+  - :muscle: [Salesforce B2C Commerce for Developers](https://trailhead.salesforce.com/en/content/learn/modules/cc-digital-for-developers?trail_id=develop-for-commerce-cloud) | Module - 50m
+  - :muscle: [Architecture of Salesforce B2C Commerce](https://trailhead.salesforce.com/en/content/learn/modules/architecture-of-commerce-cloud-digital?trail_id=develop-for-commerce-cloud) | Module - 30m
+  - :muscle: [Tools & Resources for Salesforce B2C Commerce Developers](https://trailhead.salesforce.com/en/content/learn/modules/b2c-developer-resources-and-tools?trail_id=develop-for-commerce-cloud) | Module - 01h 20m
+  - :muscle: [Salesforce B2C Commerce Cartridges](https://trailhead.salesforce.com/en/content/learn/modules/b2c-cartridges?trail_id=develop-for-commerce-cloud) | Module - 40m
+- :eyes: []() | Trailmix - 03h 15m
+- :eyes: []() | Trailmix - 03h 15m
+- :eyes: []() | Trailmix - 03h 15m
+- :eyes: []() | Trailmix - 03h 15m
+- :eyes: []() | Trailmix - 03h 15m
+- :eyes: []() | Trailmix - 03h 15m
 
 
 ### Certification
@@ -79,4 +90,4 @@ Useful links and study materials for Salesforce Commerce Cloud Developers.
 - :star: [Schedule your Salesforce Certification Exam](https://www.webassessor.com/salesforce)
 - :star: [Certification Questions](https://www.certification-questions.com/salesforce-dumps/certified-b2c-commerce-developer.html)
 - :money_with_wings: [B2C Commerce Developer with SFRA (CCD102)](https://trailheadacademy.salesforce.com/classes/ccd102-b2c-commerce-developer-with-sfra) - 3.000$
-- :money_with_wings: [B2C Commerce Merchant (CCM101)]()
+- :money_with_wings: [B2C Commerce Merchant (CCM101)](https://trailheadacademy.salesforce.com/classes/ccm101-manage-and-merchandise-a-b2c-commerce-cloud-store---extended) - 1.500$
