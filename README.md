@@ -76,18 +76,26 @@ Useful links and study materials for Salesforce Commerce Cloud Developers.
   - :muscle: [Architecture of Salesforce B2C Commerce](https://trailhead.salesforce.com/en/content/learn/modules/architecture-of-commerce-cloud-digital?trail_id=develop-for-commerce-cloud) | Module - 30m
   - :muscle: [Tools & Resources for Salesforce B2C Commerce Developers](https://trailhead.salesforce.com/en/content/learn/modules/b2c-developer-resources-and-tools?trail_id=develop-for-commerce-cloud) | Module - 01h 20m
   - :muscle: [Salesforce B2C Commerce Cartridges](https://trailhead.salesforce.com/en/content/learn/modules/b2c-cartridges?trail_id=develop-for-commerce-cloud) | Module - 40m
+- :eyes: [Build Your Ecommerce Site with Salesforce B2C Commerce](https://trailhead.salesforce.com/en/content/learn/trails/build-ecommerce-site-with-cc-digital) | Trailmix - 03h 55m
+    - :muscle: [Salesforce B2C Commerce](https://trailhead.salesforce.com/en/content/learn/modules/cc-digital?trail_id=build-ecommerce-site-with-cc-digital) | Module - 20m
+    - :muscle: [Salesforce B2C Commerce for Merchandisers](https://trailhead.salesforce.com/en/content/learn/modules/cc-digital-merchandising?trail_id=build-ecommerce-site-with-cc-digital) | Module - 30m
+    - :muscle: [Salesforce B2C Commerce Campaigns and Promotions](https://trailhead.salesforce.com/en/content/learn/modules/b2c-campaigns-and-promotions?trail_id=build-ecommerce-site-with-cc-digital) | Module - 01h 45m
+    - :muscle: [Salesforce B2C Commerce Storefront Search](https://trailhead.salesforce.com/en/content/learn/modules/b2c-storefront-search?trail_id=build-ecommerce-site-with-cc-digital) | Module - 01h 20m
 - :eyes: []() | Trailmix - 03h 15m
-- :eyes: []() | Trailmix - 03h 15m
-- :eyes: []() | Trailmix - 03h 15m
+    - :muscle: []() | Module - 50m
+    - :muscle: []() | Module - 50m
 - :eyes: []() | Trailmix - 03h 15m
 - :eyes: []() | Trailmix - 03h 15m
 - :eyes: []() | Trailmix - 03h 15m
 
+- :muscle: [Salesforce B2C Commerce Launch Readiness](https://trailhead.salesforce.com/content/learn/modules/b2c-solution-functional-launch-readiness?trailmix_creator_id=strailhead&trailmix_slug=commerced-cloud-gen-900-introduction-to-commerce-cloud-businessd) | Module - 20m
+- :muscle: [Headless Commerce Basics](https://trailhead.salesforce.com/en/content/learn/modules/b2c-headless-commerce-basics?trail_id=develop-for-commerce-cloud&trailmix_creator_id=strailhead) | Module - 20m
 
 ### Certification
 - :star: [B2C Commerce Developer](https://trailhead.salesforce.com/es-MX/credentials/b2ccommercedeveloper)
 - :star: [Exam Guide - Salesforce Certified B2C Commerce Developer](https://trailhead.salesforce.com/help?article=Salesforce-Certified-B2C-Commerce-Developer-Exam-Guide)
 - :star: [Schedule your Salesforce Certification Exam](https://www.webassessor.com/salesforce)
 - :star: [Certification Questions](https://www.certification-questions.com/salesforce-dumps/certified-b2c-commerce-developer.html)
+- :money_with_wings: [Trailhead Academy](https://trailhead.salesforce.com/academy) - Expert-led courses $$$
 - :money_with_wings: [B2C Commerce Developer with SFRA (CCD102)](https://trailheadacademy.salesforce.com/classes/ccd102-b2c-commerce-developer-with-sfra) - 3.000$
 - :money_with_wings: [B2C Commerce Merchant (CCM101)](https://trailheadacademy.salesforce.com/classes/ccm101-manage-and-merchandise-a-b2c-commerce-cloud-store---extended) - 1.500$
