@@ -81,10 +81,18 @@ Useful links and study materials for Salesforce Commerce Cloud Developers.
     - :muscle: [Salesforce B2C Commerce for Merchandisers](https://trailhead.salesforce.com/en/content/learn/modules/cc-digital-merchandising?trail_id=build-ecommerce-site-with-cc-digital) | Module - 30m
     - :muscle: [Salesforce B2C Commerce Campaigns and Promotions](https://trailhead.salesforce.com/en/content/learn/modules/b2c-campaigns-and-promotions?trail_id=build-ecommerce-site-with-cc-digital) | Module - 01h 45m
     - :muscle: [Salesforce B2C Commerce Storefront Search](https://trailhead.salesforce.com/en/content/learn/modules/b2c-storefront-search?trail_id=build-ecommerce-site-with-cc-digital) | Module - 01h 20m
-- :eyes: []() | Trailmix - 03h 15m
-    - :muscle: []() | Module - 50m
-    - :muscle: []() | Module - 50m
-- :eyes: []() | Trailmix - 03h 15m
+- :eyes: [Optimize Search Engine Awareness for Your Salesforce B2C Commerce Storefront](https://trailhead.salesforce.com/es-MX/content/learn/trails/optimize-search-engine-awareness-for-your-salesforce-b2c-commerce-storefront) | Trailmix - 04h 00m
+    - :muscle: [Salesforce B2C Commerce Hostname Aliases](https://trailhead.salesforce.com/es-MX/content/learn/modules/b2c-hostname-aliases?trail_id=optimize-search-engine-awareness-for-your-salesforce-b2c-commerce-storefront) | Module - 40m
+    - :muscle: [Salesforce B2C Commerce SEO URLs](https://trailhead.salesforce.com/es-MX/content/learn/modules/b2c-seo-urls?trail_id=optimize-search-engine-awareness-for-your-salesforce-b2c-commerce-storefront) | Module - 01h 30m
+    - :muscle: [Salesforce B2C Commerce XML Sitemaps](https://trailhead.salesforce.com/es-MX/content/learn/modules/b2c-xml-sitemaps?trail_id=optimize-search-engine-awareness-for-your-salesforce-b2c-commerce-storefront) | Module - 01h 10m
+    - :muscle: [Salesforce B2C Commerce SEO Meta Tags](https://trailhead.salesforce.com/es-MX/content/learn/modules/b2c-seo-meta-tags?trail_id=optimize-search-engine-awareness-for-your-salesforce-b2c-commerce-storefront) | Module - 40m
+- :eyes: [Administer a Salesforce B2C Commerce Site](https://trailhead.salesforce.com/en/content/learn/trails/administer-b2c-commerce) | Trailmix - 05h 10m
+    - :muscle: [Salesforce B2C Commerce Roles & Permissions](https://trailhead.salesforce.com/en/content/learn/modules/b2c-configure-users-roles-permissions?trail_id=administer-b2c-commerce) | Module - 50m
+    - :muscle: [Salesforce B2C Commerce Import & Export](https://trailhead.salesforce.com/en/content/learn/modules/b2c-import-export?trail_id=administer-b2c-commerce) | Module - 40m
+    - :muscle: [Salesforce B2C Commerce Replication](https://trailhead.salesforce.com/en/content/learn/modules/b2c-admin-replication?trail_id=administer-b2c-commerce) | Module - 01h 25m
+    - :muscle: [Salesforce B2C Commerce Scheduled Jobs](https://trailhead.salesforce.com/en/content/learn/modules/b2c-admin-create-and-manage-jobs?trail_id=administer-b2c-commerce) | Module - 01h 15m
+    - :muscle: [Salesforce B2C Commerce On-Demand Sandboxes](https://trailhead.salesforce.com/en/content/learn/modules/b2c-on-demand-sandbox?trail_id=administer-b2c-commerce) | Module - 30m
+    - :muscle: [Salesforce B2C Commerce Trust Site](https://trailhead.salesforce.com/en/content/learn/modules/b2c-commerce-trust-site?trail_id=administer-b2c-commerce) | Module - 30m
 - :eyes: []() | Trailmix - 03h 15m
 - :eyes: []() | Trailmix - 03h 15m
 
