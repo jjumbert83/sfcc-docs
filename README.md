@@ -134,9 +134,6 @@ Useful links and study materials for Salesforce Commerce Cloud Developers.
     - :muscle: [Salesforce B2C Commerce Storefront Security Strategies](https://trailhead.salesforce.com/es-MX/content/learn/modules/b2c-storefront-security-strategies?trail_id=prepare-your-b2c-commerce-storefront-for-holiday-shopping) | Module - 45m
     - :muscle: [Salesforce B2C Commerce Cache for Performance & Scalability](https://trailhead.salesforce.com/es-MX/content/learn/modules/b2c-implement-cache?trail_id=prepare-your-b2c-commerce-storefront-for-holiday-shopping) | Module - 55m
 
-- :muscle: [Salesforce B2C Commerce Launch Readiness](https://trailhead.salesforce.com/content/learn/modules/b2c-solution-functional-launch-readiness?trailmix_creator_id=strailhead&trailmix_slug=commerced-cloud-gen-900-introduction-to-commerce-cloud-businessd) | Module - 20m
-- :muscle: [Headless Commerce Basics](https://trailhead.salesforce.com/en/content/learn/modules/b2c-headless-commerce-basics?trail_id=develop-for-commerce-cloud&trailmix_creator_id=strailhead) | Module - 20m
-
 ### Certification
 - :star: [B2C Commerce Developer](https://trailhead.salesforce.com/es-MX/credentials/b2ccommercedeveloper)
 - :star: [Exam Guide - Salesforce Certified B2C Commerce Developer](https://trailhead.salesforce.com/help?article=Salesforce-Certified-B2C-Commerce-Developer-Exam-Guide)
